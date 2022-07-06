@@ -7,7 +7,7 @@
 - pickle
 - tensor-flow(>= 2.6)
 
-#Running:
-Step 1: Extract Data.zip
-Step 2: Run jupyter file preprocessing first
-Step 3: Run jupyter file train
+# Running:
+- Step 1: Extract Data.zip
+- Step 2: Run jupyter file preprocessing first
+- Step 3: Run jupyter file train
